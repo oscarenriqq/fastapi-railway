@@ -5,7 +5,6 @@ API para la gestión de libros utilizada en despliegue con Railway.
 ## Requisitos
 
 - Python 3.8+
-- Paquetes necesarios (listar dependencias o proporcionar un archivo `requirements.txt`)
 
 ## Instalación
 
